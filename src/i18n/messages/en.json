@@ -1,0 +1,545 @@
+{
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "testimonials": "Success Stories",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Sign In",
+    "cta": "Start Free Trial",
+    "salesCta": "Talk to Sales"
+  },
+  "hero": {
+    "badge": "The Leading Digital Education Platform",
+    "title": "Build Your Learning Platform",
+    "highlight": "and Grow Your Business",
+    "subtitle": "A complete platform to help you create, market, and sell learning products in one place. Interactive courses, digital communities, and ready-to-sell products.",
+    "cta": "Start Free Trial",
+    "salesCta": "Talk to Sales",
+    "trustPrefix": "Trusted by over",
+    "trustCount": "10,000+",
+    "trustSuffix": "content creators"
+  },
+  "socialProof": {
+    "title": "Trusted by 10,000+ creators worldwide",
+    "stats": [
+      { "value": "10,000+", "label": "Active Creators" },
+      { "value": "500K+", "label": "Students Enrolled" },
+      { "value": "$50M+", "label": "Revenue Generated" },
+      { "value": "50+", "label": "Countries" }
+    ],
+    "logos": ["Forbes", "TechCrunch", "Product Hunt", "G2", "Capterra"]
+  },
+  "problem": {
+    "title": "Stop wrestling with fragmented tools",
+    "subtitle": "Your knowledge deserves better than scattered platforms and lost revenue.",
+    "items": [
+      {
+        "title": "Too many platforms",
+        "description": "Course hosting here, payments there, emails somewhere else. You're losing time switching between tools."
+      },
+      {
+        "title": "Lost revenue opportunities",
+        "description": "Without the right upsell moments baked in, you're leaving money on the table with every student."
+      },
+      {
+        "title": "Technical overwhelm",
+        "description": "You want to teach, not configure. But every platform seems to require a degree in rocket science."
+      }
+    ]
+  },
+  "productDemo": {
+    "title": "See Edulato in action",
+    "subtitle": "Everything you need to create, sell, and scale your knowledge business",
+    "features": [
+      {
+        "title": "Course Builder",
+        "description": "Intuitive drag-and-drop course creation with AI assistance"
+      },
+      {
+        "title": "Student Management",
+        "description": "Track progress, engagement, and learning outcomes"
+      },
+      {
+        "title": "Analytics Dashboard",
+        "description": "Real-time insights into revenue and student behavior"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why creators choose Edulato",
+    "subtitle": "Built by creators, for creators",
+    "items": [
+      {
+        "title": "Launch in hours, not weeks",
+        "description": "Get your first course live today with our intuitive builder and AI assistance",
+        "stat": "90%",
+        "statLabel": "faster launch"
+      },
+      {
+        "title": "Earn more per student",
+        "description": "Smart upsells and bundles increase your average revenue per student automatically",
+        "stat": "3x",
+        "statLabel": "higher revenue"
+      },
+      {
+        "title": "Focus on teaching, not tech",
+        "description": "We handle hosting, payments, and delivery. You focus on what you do best",
+        "stat": "100%",
+        "statLabel": "managed infrastructure"
+      }
+    ]
+  },
+  "features": {
+    "title": "Everything you need to succeed",
+    "subtitle": "Powerful features to create, market, and sell your knowledge",
+    "items": [
+      {
+        "title": "Drag & Drop Builder",
+        "description": "Create beautiful courses without any coding knowledge"
+      },
+      {
+        "title": "Built-in Marketing",
+        "description": "Email sequences, landing pages, and affiliate programs included"
+      },
+      {
+        "title": "Payment Processing",
+        "description": "Accept payments in 135+ currencies with zero hassle"
+      },
+      {
+        "title": "Student Engagement",
+        "description": "Quizzes, certificates, and community features built-in"
+      },
+      {
+        "title": "Advanced Analytics",
+        "description": "Track every metric that matters for your business"
+      },
+      {
+        "title": "Mobile Optimized",
+        "description": "Students learn on any device, anywhere"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "subtitle": "Get started in four simple steps",
+    "steps": [
+      {
+        "title": "Create your content",
+        "description": "Upload videos, write lessons, and build your curriculum with our intuitive builder"
+      },
+      {
+        "title": "Customize your brand",
+        "description": "Apply your colors, logo, and domain to create a seamless brand experience"
+      },
+      {
+        "title": "Set your pricing",
+        "description": "Choose one-time, subscription, or payment plan options that work for your audience"
+      },
+      {
+        "title": "Launch & grow",
+        "description": "Go live and use our marketing tools to reach more students worldwide"
+      }
+    ]
+  },
+  "integrations": {
+    "title": "Integrates with your favorite tools",
+    "subtitle": "Connect Edulato to the tools you already use",
+    "apps": [
+      { "name": "Stripe", "category": "Payments" },
+      { "name": "Mailchimp", "category": "Email" },
+      { "name": "Zapier", "category": "Automation" },
+      { "name": "Zoom", "category": "Live Sessions" },
+      { "name": "Google Analytics", "category": "Analytics" },
+      { "name": "Slack", "category": "Community" }
+    ]
+  },
+  "testimonials": {
+    "title": "Loved by creators worldwide",
+    "subtitle": "See what our community has to say",
+    "items": [
+      {
+        "quote": "Edulato transformed my side hustle into a six-figure business. The platform is intuitive and the support is incredible.",
+        "author": "Aisha Rahman",
+        "role": "Marketing Coach",
+        "avatar": "/avatars/aisha.jpg"
+      },
+      {
+        "quote": "I tried other platforms before, but nothing compares to Edulato. The analytics alone have saved me hours every week.",
+        "author": "Marcus Chen",
+        "role": "Tech Instructor",
+        "avatar": "/avatars/marcus.jpg"
+      },
+      {
+        "quote": "From zero to1500 students in 6 months. Edulato made it possible to scale without the headache.",
+        "author": "Elena Rodriguez",
+        "role": "Language Teacher",
+        "avatar": "/avatars/elena.jpg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "Everything you need to know about Edulato",
+    "items": [
+      {
+        "question": "How much does Edulato cost?",
+        "answer": "We offer a free plan to get started, with paid plans starting at $99/month. You can see all pricing details on our pricing page."
+      },
+      {
+        "question": "Can I migrate my existing courses?",
+        "answer": "Yes! We offer free migration support for courses from other platforms. Our team will help you transfer everything seamlessly."
+      },
+      {
+        "question": "Do I need technical skills to use Edulato?",
+        "answer": "Not at all. Edulato is designed to be user-friendly. If you can use email, you can use Edulato."
+      },
+      {
+        "question": "What payment methods do you support?",
+        "answer": "We support all major credit cards, PayPal, and local payment methods in 135+ countries."
+      },
+      {
+        "question": "Can I cancel anytime?",
+        "answer": "Yes, you can cancel your subscription at any time. There are no long-term contracts or hidden fees."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to transform your knowledge into income?",
+    "subtitle": "",
+    "primary": {
+      "title": "Start for free today",
+      "subtitle": "No credit card required",
+      "cta": "Get Started Free"
+    },
+    "secondary": {
+      "title": "Talk to our team",
+      "subtitle": "Get a personalized demo",
+      "cta": "Schedule a Call"
+    }
+  },
+  "logos": {
+    "title": "Trusted by education entrepreneurs"
+  },
+  "valueProps": {
+    "title": "Learning experiences that convert",
+    "subtitle": "On a platform that scales with you",
+    "items": [
+      {
+        "title": "An easy-to-use platform to help you launch faster",
+        "description": "Get up and running quickly with AI-powered content and design tools, a simple drag-and-drop course builder, and content with tips from successful creators.",
+        "cta": "Explore case studies",
+        "image": "/images/easy-platform.svg"
+      },
+      {
+        "title": "Industry-leading commerce and payment tools",
+        "description": "Growth doesn't have to be forced – it can be built into the learning journey. Our platform creates natural, high-value upsell moments.",
+        "cta": "Explore selling tools",
+        "image": "/images/commerce-tools.svg"
+      },
+      {
+        "title": "Unrivaled customer support",
+        "description": "From onboarding to problem resolution, our team is built to be your biggest growth asset. We earned a top 50 G2 award for customer service.",
+        "cta": "Learn about support",
+        "image": "/images/support.svg"
+      }
+    ]
+  },
+  "products": {
+    "title": "The right learning products for your customers",
+    "subtitle": "From courses and communities to memberships and digital downloads, Edulato supports every way you want to share your expertise.",
+    "items": [
+      {
+        "title": "Interactive Courses",
+        "description": "Create interactive courses with videos, quizzes, and assignments",
+        "icon": "courses"
+      },
+      {
+        "title": "Digital Communities",
+        "description": "Provide a shared learning space for your audience",
+        "icon": "communities"
+      },
+      {
+        "title": "Digital Downloads",
+        "description": "Sell digital products easily",
+        "icon": "downloads"
+      },
+      {
+        "title": "Memberships",
+        "description": "Generate recurring revenue with exclusive memberships",
+        "icon": "memberships"
+      },
+      {
+        "title": "Coaching & Workshops",
+        "description": "Connect with customers through interactive sessions",
+        "icon": "coaching"
+      },
+      {
+        "title": "Landing Pages",
+        "description": "Build high-converting pages quickly",
+        "icon": "landing"
+      }
+    ]
+  },
+  "results": {
+    "title": "The results speak for themselves",
+    "stats": [
+      { "value": "4.5/5", "label": "Rating from over 500 real reviews" },
+      { "value": "35K+", "label": "Successful businesses" },
+      { "value": "$3.7B", "label": "Revenue earned by customers" }
+    ],
+    "badges": "Awards & Rankings"
+  },
+  "caseStudies": {
+    "title": "Join the ranks of leading learning businesses",
+    "items": [
+      {
+        "quote": "Using Edulato has allowed us to employ our customer education at scale. Without it, it would have taken immense resources to train our user base.",
+        "author": "John Smith",
+        "role": "Marketing Director",
+        "company": "Tech Academy",
+        "result": "486% revenue growth",
+        "image": "/avatars/avatar1.jpg"
+      },
+      {
+        "quote": "I love that I can put my own branding on my courses. I can change fonts, colors, and other aspects so my students feel like they're on my website.",
+        "author": "Sarah Johnson",
+        "role": "Graphic Designer",
+        "company": "Easy Excel",
+        "result": "Six-figure business",
+        "image": "/avatars/avatar2.jpg"
+      },
+      {
+        "quote": "The analytics system helped me understand my audience better and increase my sales by 150%.",
+        "author": "Michael Brown",
+        "role": "Business Consultant",
+        "company": "Business Hub",
+        "result": "100,000+ enrollments",
+        "image": "/avatars/avatar3.jpg"
+      }
+    ]
+  },
+  "pricing": {
+    "badge": "Start free, upgrade when you need",
+    "title": "Plans for every stage of your growth",
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "Free",
+        "period": "forever",
+        "description": "For beginners testing the waters",
+        "features": [
+          "1 Course",
+          "Unlimited students",
+          "1 Landing page",
+          "Email support"
+        ],
+        "cta": "Start Free",
+        "popular": false
+      },
+      {
+        "name": "Professional",
+        "price": "$99",
+        "period": "/month",
+        "description": "For serious creators",
+        "features": [
+          "Unlimited courses",
+          "Unlimited landing pages",
+          "Advanced analytics",
+          "Selling tools",
+          "Priority support",
+          "Remove branding"
+        ],
+        "cta": "Start Now",
+        "popular": true
+      },
+      {
+        "name": "Enterprise",
+        "price": "$299",
+        "period": "/month",
+        "description": "For teams and organizations",
+        "features": [
+          "All Pro features",
+          "Custom API",
+          "Dedicated account manager",
+          "Custom reports",
+          "System integrations",
+          "Custom training"
+        ],
+        "cta": "Contact Us",
+        "popular": false
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Start your learning journey today",
+    "subtitle": "Join thousands of successful creators and teachers",
+    "cta": "Start Free Trial",
+    "salesCta": "Talk to Sales"
+  },
+  "footer": {
+    "description": "A complete platform for teachers and content creators to sell courses and digital products",
+    "columns": {
+      "solutions": {
+        "title": "Solutions",
+        "items": ["Experts", "Academies", "Companies", "Revenue Generation", "Customer Training"]
+      },
+      "platform": {
+        "title": "Platform",
+        "items": ["Pricing", "Courses", "Communities", "Digital Downloads", "Memberships", "Coaching"]
+      },
+      "company": {
+        "title": "Company",
+        "items": ["About", "Careers", "Press", "Security", "Legal"]
+      },
+      "resources": {
+        "title": "Resources",
+        "items": ["Blog", "Case Studies", "Help Center", "Academy"]
+      }
+    },
+    "social": {
+      "title": "Follow Us"
+    },
+    "copyright": "All rights reserved"
+  },
+  "about": {
+    "hero": {
+      "title": "We are Edulato",
+      "subtitle": "Empowering creators and teachers to build successful learning businesses"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "We believe knowledge is the most powerful tool for transformation. Our mission is to enable everyone with expertise to share it and turn it into a successful business."
+    },
+    "story": {
+      "title": "Our Story",
+      "paragraphs": [
+        "Edulato started from personal frustration - seeing how many experts and teachers struggle to turn their knowledge into sustainable businesses.",
+        "We built a platform that makes it easy for anyone to create professional courses, sell them, and manage their relationships with students.",
+        "Today, we help over 10,000 content creators worldwide achieve their dreams."
+      ]
+    },
+    "values": {
+      "title": "Our Values",
+      "items": [
+        {
+          "title": "Empowerment",
+          "description": "We remove technical barriers to empower everyone to share their knowledge"
+        },
+        {
+          "title": "Excellence",
+          "description": "We always strive to provide the best possible experience for our customers"
+        },
+        {
+          "title": "Innovation",
+          "description": "We continuously evolve and innovate solutions for our customers' challenges"
+        },
+        {
+          "title": "Transparency",
+          "description": "We believe in clarity and honesty in all our interactions"
+        }
+      ]
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "A diverse team of professionals passionate about enabling knowledge"
+    },
+    "stats": {
+      "items": [
+        { "value": "10,000+", "label": "Content Creators" },
+        { "value": "50+", "label": "Countries" },
+        { "value": "500,000+", "label": "Students" },
+        { "value": "$50M+", "label": "Revenue earned by customers" }
+      ]
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in Touch",
+      "subtitle": "We're here to help. Choose the best way to reach us."
+    },
+    "methods": {
+      "title": "Contact Methods",
+      "items": [
+        {
+          "title": "Technical Support",
+          "description": "For technical inquiries and assistance",
+          "action": "support@edulato.com",
+          "icon": "email"
+        },
+        {
+          "title": "Sales",
+          "description": "For pricing and plan inquiries",
+          "action": "sales@edulato.com",
+          "icon": "phone"
+        },
+        {
+          "title": "Partnerships",
+          "description": "For partnership opportunities",
+          "action": "partners@edulato.com",
+          "icon": "handshake"
+        }
+      ]
+    },
+    "form": {
+      "title": "Send a Message",
+      "fields": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "subject": "Subject",
+        "message": "Your Message"
+      },
+      "submit": "Send",
+      "success": "Your message has been sent successfully!"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "How can I get started?",
+          "answer": "You can start for free by creating an account and trying the platform with no commitment."
+        },
+        {
+          "question": "Can I cancel my subscription anytime?",
+          "answer": "Yes, you can cancel your subscription anytime without additional fees."
+        },
+        {
+          "question": "Is there technical support?",
+          "answer": "Yes, we provide technical support via email and live chat."
+        }
+      ]
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Sign In",
+      "subtitle": "Welcome back",
+      "email": "Email Address",
+      "password": "Password",
+      "remember": "Remember me",
+      "forgot": "Forgot password?",
+      "submit": "Sign In",
+      "orContinue": "Or continue with",
+      "noAccount": "Don't have an account?",
+      "signup": "Create account"
+    },
+    "signup": {
+      "title": "Create Account",
+      "subtitle": "Start your learning journey",
+      "name": "Full Name",
+      "email": "Email Address",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "terms": "I agree to the",
+      "termsLink": "Terms of Service and Privacy Policy",
+      "submit": "Create Account",
+      "orContinue": "Or continue with",
+      "haveAccount": "Already have an account?",
+      "login": "Sign In"
+    },
+    "social": {
+      "google": "Continue with Google",
+      "apple": "Continue with Apple"
+    }
+  }
+}

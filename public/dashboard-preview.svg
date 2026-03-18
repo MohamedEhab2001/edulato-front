@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" fill="none">
+  <rect width="1200" height="800" fill="#F0F4FF"/>
+  <rect x="40" y="40" width="280" height="720" rx="16" fill="#17042F" opacity="0.95"/>
+  <circle cx="140" cy="100" r="32" fill="#5867FE"/>
+  <rect x="80" y="160" width="120" height="12" rx="4" fill="#CFDCFE" opacity="0.3"/>
+  <rect x="80" y="190" width="200" height="10" rx="3" fill="#CFDCFE" opacity="0.2"/>
+  <rect x="80" y="210" width="160" height="10" rx="3" fill="#CFDCFE" opacity="0.2"/>
+  <rect x="80" y="260" width="80" height="30" rx="8" fill="#5867FE"/>
+  <rect x="340" y="40" width="820" height="80" rx="16" fill="white" opacity="0.8"/>
+  <rect x="380" y="70" width="200" height="20" rx="4" fill="#17042F"/>
+  <rect x="1020" y="60" width="100" height="40" rx="8" fill="#5867FE"/>
+  <rect x="340" y="140" width="400" height="300" rx="16" fill="white" opacity="0.8"/>
+  <rect x="380" y="180" width="160" height="16" rx="4" fill="#17042F"/>
+  <rect x="380" y="220" width="300" height="20" rx="4" fill="#CFDCFE"/>
+  <rect x="380" y="260" width="280" height="16" rx="4" fill="#CFDCFE" opacity="0.6"/>
+  <rect x="380" y="300" width="320" height="16" rx="4" fill="#CFDCFE" opacity="0.4"/>
+  <rect x="380" y="380" width="120" height="40" rx="8" fill="#5867FE"/>
+  <rect x="780" y="140" width="380" height="300" rx="16" fill="white" opacity="0.8"/>
+  <rect x="820" y="180" width="140" height="14" rx="4" fill="#17042F"/>
+  <circle cx="880" cy="300" r="80" fill="#5867FE" opacity="0.2"/>
+  <path d="M880 260 L880 340 M840 300 L920 300" stroke="#5867FE" stroke-width="4" stroke-linecap="round"/>
+  <rect x="340" y="460" width="820" height="300" rx="16" fill="white" opacity="0.8"/>
+  <rect x="380" y="500" width="180" height="16" rx="4" fill="#17042F"/>
+  <text x="600" y="700" text-anchor="middle" fill="#5867FE" font-size="24" font-weight="bold" font-family="system-ui, sans-serif">Edulato Dashboard</text>
+</svg>
